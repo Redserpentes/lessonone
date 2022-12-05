@@ -71,3 +71,5 @@
 
 [Подсмотрено тут](https://git-scm.com/ "Git")
 
+![Logo](fin.jpg "pictures git")
+
